@@ -373,3 +373,7 @@ link for the booking service using nodejs
 
 [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.2.md)
 
+
+06 SEP 2023
+
+[How we reduced the size of our JavaScript bundles by 33%](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
