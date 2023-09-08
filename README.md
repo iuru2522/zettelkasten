@@ -377,3 +377,7 @@ link for the booking service using nodejs
 06 SEP 2023
 
 [How we reduced the size of our JavaScript bundles by 33%](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
+
+07 SEP 2023
+
+[Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
