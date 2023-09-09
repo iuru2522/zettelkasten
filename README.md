@@ -381,3 +381,15 @@ link for the booking service using nodejs
 07 SEP 2023
 
 [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+
+08 SEP 2023
+
+Interesting!
+
+[WebGlossary.info](https://webglossary.info/)
+
+Videos:
+
+[Why is it overflowing?](https://www.youtube.com/watch?v=e7PLvudkTE0)
+
+[Why isn't the margin applying? ](https://www.youtube.com/watch?v=YdggbwLEuFg)
