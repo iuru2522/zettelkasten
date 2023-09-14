@@ -397,3 +397,7 @@ Videos:
 09 SEP 2023
 
 [Getting Started with Maven](https://maven.apache.org/guides/)
+
+13 SEP 2023
+
+[Request Mapping](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-requestmapping.html)
