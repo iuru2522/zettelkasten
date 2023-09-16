@@ -407,3 +407,7 @@ Videos:
 [SQL DATEPART](https://learn.microsoft.com/en-us/sql/t-sql/functions/datepart-transact-sql?view=sql-server-ver16)
 
 [Aggregate Functions (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver16)
+
+15 SEP 2023
+
+[Spring Boot With H2 Database](https://www.baeldung.com/spring-boot-h2-database)
