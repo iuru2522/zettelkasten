@@ -411,3 +411,7 @@ Videos:
 15 SEP 2023
 
 [Spring Boot With H2 Database](https://www.baeldung.com/spring-boot-h2-database)
+
+16 SEP 2023
+
+[Spring Container and Beans](https://docs.spring.io/spring-framework/reference/core/beans/introduction.html)
