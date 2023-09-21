@@ -415,3 +415,8 @@ Videos:
 16 SEP 2023
 
 [Spring Container and Beans](https://docs.spring.io/spring-framework/reference/core/beans/introduction.html)
+
+20 SEP 2023
+
+[Project Lombok](https://projectlombok.org/)
+
