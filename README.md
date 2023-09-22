@@ -423,5 +423,10 @@ Videos:
 
 =======
 17 Sep 2023
-[]()
+[@Data](https://projectlombok.org/features/Data)
 >>>>>>> 6953dd3f2ead865bcac1726e02c1cad9c76b03fb
+
+
+21 SEP 2023
+
+[@Getter and @Setter](https://projectlombok.org/features/GetterSetter)
