@@ -426,9 +426,10 @@ Videos:
 
 [@Data](https://projectlombok.org/features/Data)
 
-
-
-
 21 SEP 2023
 
 [@Getter and @Setter](https://projectlombok.org/features/GetterSetter)
+
+24 SEP 2023
+
+[Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)
