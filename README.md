@@ -416,7 +416,7 @@ Videos:
 
 [Spring Container and Beans](https://docs.spring.io/spring-framework/reference/core/beans/introduction.html)
 
-<<<<<<< HEAD
+
 20 SEP 2023
 
 [Project Lombok](https://projectlombok.org/)
@@ -433,3 +433,9 @@ Videos:
 24 SEP 2023
 
 [Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)
+
+26 SEP 2023
+
+from today's java class
+
+[Thymeleaf](https://www.thymeleaf.org/)
