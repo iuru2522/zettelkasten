@@ -434,8 +434,12 @@ Videos:
 
 [Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)
 
-26 SEP 2023
+25 SEP 2023
 
 from today's java class
 
 [Thymeleaf](https://www.thymeleaf.org/)
+
+26 SEP 2023
+
+[msa-is-meant-to-simplify-development](https://microservices.io/post/architecture/2023/07/06/msa-is-meant-to-simplify-development.md.html)
