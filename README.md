@@ -443,3 +443,7 @@ from today's java class
 26 SEP 2023
 
 [msa-is-meant-to-simplify-development](https://microservices.io/post/architecture/2023/07/06/msa-is-meant-to-simplify-development.md.html)
+
+27 SEP 2023
+
+[Spring Boot With H2 Database](https://www.baeldung.com/spring-boot-h2-database)
