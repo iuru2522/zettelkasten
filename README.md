@@ -447,3 +447,7 @@ from today's java class
 27 SEP 2023
 
 [Spring Boot With H2 Database](https://www.baeldung.com/spring-boot-h2-database)
+
+28 SEP 2023
+[](https://www.digicert.com/easy-csr/openssl.htm)
+
