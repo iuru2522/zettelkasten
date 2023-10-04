@@ -449,5 +449,13 @@ from today's java class
 [Spring Boot With H2 Database](https://www.baeldung.com/spring-boot-h2-database)
 
 28 SEP 2023
-[](https://www.digicert.com/easy-csr/openssl.htm)
+[OpenSSL CSR Creation](https://www.digicert.com/easy-csr/openssl.htm)
+
+03 OCT 2023
+
+from the Cyber sec class, nice to have knowledge!
+
+[PCI Security Standards Council](https://www.pcisecuritystandards.org/)
+
+
 
