@@ -458,4 +458,6 @@ from the Cyber sec class, nice to have knowledge!
 [PCI Security Standards Council](https://www.pcisecuritystandards.org/)
 
 
+04 OCT 2023
 
+[JDBC Tutorial](https://www.geeksforgeeks.org/jdbc-tutorial/)
