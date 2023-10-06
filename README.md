@@ -461,3 +461,9 @@ from the Cyber sec class, nice to have knowledge!
 04 OCT 2023
 
 [JDBC Tutorial](https://www.geeksforgeeks.org/jdbc-tutorial/)
+
+05 OCT 2023
+
+from CyberSec class
+
+[OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html)
