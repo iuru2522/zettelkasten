@@ -467,3 +467,7 @@ from the Cyber sec class, nice to have knowledge!
 from CyberSec class
 
 [OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html)
+
+06 OCT 2023
+
+[Payment Card Industry (PCI)Mobile Payments on COTS](https://docs-prv.pcisecuritystandards.org/MPoC/Standard/Mobile_Payments_on_COTS-v1-0-1.pdf)
