@@ -471,3 +471,7 @@ from CyberSec class
 06 OCT 2023
 
 [Payment Card Industry (PCI)Mobile Payments on COTS](https://docs-prv.pcisecuritystandards.org/MPoC/Standard/Mobile_Payments_on_COTS-v1-0-1.pdf)
+
+08 OCT 2023
+
+[Spring Boot RESTful CRUD API Examples with MySQL database](https://www.codejava.net/frameworks/spring-boot/spring-boot-restful-crud-api-examples-with-mysql-database)
