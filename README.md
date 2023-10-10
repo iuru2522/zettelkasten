@@ -475,3 +475,7 @@ from CyberSec class
 08 OCT 2023
 
 [Spring Boot RESTful CRUD API Examples with MySQL database](https://www.codejava.net/frameworks/spring-boot/spring-boot-restful-crud-api-examples-with-mysql-database)
+
+09 OCT 2023
+
+[Obligatory WCAG 2.2 Launch Post](https://adrianroselli.com/2023/10/obligatory-wcag-2-2-launch-post.html)
