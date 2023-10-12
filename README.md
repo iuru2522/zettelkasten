@@ -485,3 +485,9 @@ from CyberSec class
 Frontend part
 
 [A look at React hydration and pre-rendered HTML](https://blog.logrocket.com/react-hydration-pre-rendered-html/)
+
+12 OCT 2023
+
+from cybersec class
+
+[MITRE ATT&CK®](https://attack.mitre.org/)
