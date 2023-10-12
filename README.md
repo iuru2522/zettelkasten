@@ -479,3 +479,9 @@ from CyberSec class
 09 OCT 2023
 
 [Obligatory WCAG 2.2 Launch Post](https://adrianroselli.com/2023/10/obligatory-wcag-2-2-launch-post.html)
+
+11 OCT 2023
+
+Frontend part
+
+[A look at React hydration and pre-rendered HTML](https://blog.logrocket.com/react-hydration-pre-rendered-html/)
