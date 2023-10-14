@@ -491,3 +491,7 @@ Frontend part
 from cybersec class
 
 [MITRE ATT&CK®](https://attack.mitre.org/)
+
+13 OCT 2023
+
+[NSA and CISA Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
