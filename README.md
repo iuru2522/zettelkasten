@@ -495,3 +495,12 @@ from cybersec class
 13 OCT 2023
 
 [NSA and CISA Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
+
+
+16 OCT 2024
+
+[]()
+
+17 OCT 2024
+
+[The DTO Pattern (Data Transfer Object)](https://www.baeldung.com/java-dto-pattern)
