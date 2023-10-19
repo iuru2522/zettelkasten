@@ -504,3 +504,7 @@ from cybersec class
 17 OCT 2024
 
 [The DTO Pattern (Data Transfer Object)](https://www.baeldung.com/java-dto-pattern)
+
+18 OCT 2024
+
+[SPRING Password Storage](https://docs.spring.io/spring-security/reference/features/authentication/password-storage.html)
