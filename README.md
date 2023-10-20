@@ -497,14 +497,18 @@ from cybersec class
 [NSA and CISA Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
 
 
-16 OCT 2024
+16 OCT 2023
 
 []()
 
-17 OCT 2024
+17 OCT 2023
 
 [The DTO Pattern (Data Transfer Object)](https://www.baeldung.com/java-dto-pattern)
 
-18 OCT 2024
+18 OCT 2023
 
 [SPRING Password Storage](https://docs.spring.io/spring-security/reference/features/authentication/password-storage.html)
+
+19 OCT 2023
+
+[Creating Reusable Components using Fragments in Thymeleaf](https://studygyaan.com/spring-boot/fragments-in-thymeleaf)
