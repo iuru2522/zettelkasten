@@ -512,3 +512,9 @@ from cybersec class
 19 OCT 2023
 
 [Creating Reusable Components using Fragments in Thymeleaf](https://studygyaan.com/spring-boot/fragments-in-thymeleaf)
+
+24 OCT 2023
+
+CyberSec Assignment:
+
+[dnsenum](https://www.kali.org/tools/dnsenum/)
