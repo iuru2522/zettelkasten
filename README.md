@@ -518,3 +518,7 @@ from cybersec class
 CyberSec Assignment:
 
 [dnsenum](https://www.kali.org/tools/dnsenum/)
+
+26 OCT 2023
+
+[JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview-getting-started)
