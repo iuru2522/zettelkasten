@@ -522,3 +522,7 @@ CyberSec Assignment:
 26 OCT 2023
 
 [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview-getting-started)
+
+27 OCT 2023
+
+[The Rise of Next.js: Why It's the Full-Stack Framework of Choice for Modern Websites](https://www.felixvemmer.com/blog/why-next-js)
