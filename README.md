@@ -526,3 +526,7 @@ CyberSec Assignment:
 27 OCT 2023
 
 [The Rise of Next.js: Why It's the Full-Stack Framework of Choice for Modern Websites](https://www.felixvemmer.com/blog/why-next-js)
+
+28 OCT 2023
+
+[Responsive Design Mode¶ (Firefox)](https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode/index.html)
