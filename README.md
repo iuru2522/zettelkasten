@@ -530,3 +530,8 @@ CyberSec Assignment:
 28 OCT 2023
 
 [Responsive Design Mode¶ (Firefox)](https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode/index.html)
+
+
+30 OCT 2023
+
+[HttpSession Integration](https://docs.spring.io/spring-session/reference/2.7/http-session.html)
