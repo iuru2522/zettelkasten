@@ -535,3 +535,9 @@ CyberSec Assignment:
 30 OCT 2023
 
 [HttpSession Integration](https://docs.spring.io/spring-session/reference/2.7/http-session.html)
+
+02 OCT 2023 
+
+[A Roundup Of WCAG 2.2 Explainers](https://www.smashingmagazine.com/2023/10/roundup-wcag-explainers/)
+
+[It's 2023, here is why your web design sucks.](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
