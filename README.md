@@ -541,3 +541,7 @@ CyberSec Assignment:
 [A Roundup Of WCAG 2.2 Explainers](https://www.smashingmagazine.com/2023/10/roundup-wcag-explainers/)
 
 [It's 2023, here is why your web design sucks.](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
+
+03 OCT 2023
+
+[How CSS @scope can replace BEM](https://blog.logrocket.com/css-scope-replace-bem/)
