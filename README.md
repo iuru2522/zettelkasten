@@ -545,3 +545,7 @@ CyberSec Assignment:
 03 OCT 2023
 
 [How CSS @scope can replace BEM](https://blog.logrocket.com/css-scope-replace-bem/)
+
+06 OCT 2023
+
+[Securing a Web Application](https://spring.io/guides/gs/securing-web/)
