@@ -549,3 +549,7 @@ CyberSec Assignment:
 06 OCT 2023
 
 [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+
+07 OCT 2023
+
+[A Complete Guide to Getting Started in Open Source](https://dev.to/opensauced/a-complete-guide-to-getting-started-in-open-source-2449)
