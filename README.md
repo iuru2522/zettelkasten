@@ -557,3 +557,7 @@ CyberSec Assignment:
 08 OCT 2023
 
 [Java Configuration](https://docs.spring.io/spring-security/reference/servlet/configuration/java.html)
+
+12 OCT 2023
+
+[Introducing Nue JS, a Svelte alternative](https://blog.logrocket.com/introducing-nue-js-svelte-alternative/)
