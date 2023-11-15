@@ -565,3 +565,7 @@ CyberSec Assignment:
 13 OCT 2023
 
 [Understanding the Distinctions: Spring JDBC vs. Spring Data JPA](https://medium.com/@dudkamv/understanding-the-distinctions-spring-jdbc-vs-spring-data-jpa-ecc1e8039e31)
+
+14 OCT 2023 
+
+[Introducing Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
