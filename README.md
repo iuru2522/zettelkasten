@@ -569,3 +569,7 @@ CyberSec Assignment:
 14 OCT 2023 
 
 [Introducing Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
+
+15 OCT 2023
+
+[Please Don't Ask if an Open Source Project is Dead](https://minimaxir.com/2023/11/open-source-dead-github/?utm_source=tldrwebdev)
