@@ -573,3 +573,7 @@ CyberSec Assignment:
 15 OCT 2023
 
 [Please Don't Ask if an Open Source Project is Dead](https://minimaxir.com/2023/11/open-source-dead-github/?utm_source=tldrwebdev)
+
+16 OCT 2023
+
+[What is SAML authentication? How does it work?](https://d0znpp.medium.com/what-is-saml-authentication-how-does-it-work-221533fd58cc)
