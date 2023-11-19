@@ -577,3 +577,7 @@ CyberSec Assignment:
 16 OCT 2023
 
 [What is SAML authentication? How does it work?](https://d0znpp.medium.com/what-is-saml-authentication-how-does-it-work-221533fd58cc)
+
+18 OCT 2023
+
+[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
