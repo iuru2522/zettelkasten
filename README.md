@@ -581,3 +581,8 @@ CyberSec Assignment:
 18 OCT 2023
 
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+
+19 OCT 2023
+
+[Surprising Facts About New CSS Selectors](https://cloudfour.com/thinks/surprising-facts-about-new-css-selectors/)
