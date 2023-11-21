@@ -586,3 +586,7 @@ CyberSec Assignment:
 19 OCT 2023
 
 [Surprising Facts About New CSS Selectors](https://cloudfour.com/thinks/surprising-facts-about-new-css-selectors/)
+
+20 OCT 2023
+
+[Getting started with CSS container queries](https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/)
