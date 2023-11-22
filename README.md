@@ -590,3 +590,7 @@ CyberSec Assignment:
 20 OCT 2023
 
 [Getting started with CSS container queries](https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/)
+
+21 OCT 2023 
+
+[web can do what?](https://thewebshowcase.withgoogle.com/#card-be-more-than-just-a-landing-page)
