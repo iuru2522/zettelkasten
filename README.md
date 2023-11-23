@@ -594,3 +594,7 @@ CyberSec Assignment:
 21 OCT 2023 
 
 [web can do what?](https://thewebshowcase.withgoogle.com/#card-be-more-than-just-a-landing-page)
+
+22 OCT 2023
+
+[CSS Nesting](https://ishadeed.com/article/css-nesting)
