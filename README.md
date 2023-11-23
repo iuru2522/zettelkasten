@@ -598,3 +598,10 @@ CyberSec Assignment:
 22 OCT 2023
 
 [CSS Nesting](https://ishadeed.com/article/css-nesting)
+
+
+23 OCT 2023
+
+awesome topic:
+
+[The Roots of Today's Modern Backend Engineering Practices](https://blog.pragmaticengineer.com/the-roots-of-modern-backend-engineering-practices/?utm_source=tldrwebdev)
