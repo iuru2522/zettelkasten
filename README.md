@@ -605,3 +605,8 @@ CyberSec Assignment:
 awesome topic:
 
 [The Roots of Today's Modern Backend Engineering Practices](https://blog.pragmaticengineer.com/the-roots-of-modern-backend-engineering-practices/?utm_source=tldrwebdev)
+
+
+25 OCT 2023
+
+[Class RestTemplate](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html)
