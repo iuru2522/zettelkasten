@@ -610,3 +610,7 @@ awesome topic:
 25 OCT 2023
 
 [Class RestTemplate](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html)
+
+28 OCT 2023
+
+[Front-end security best practices](https://griddynamics.medium.com/front-end-security-best-practices-8c47d23caf62)
