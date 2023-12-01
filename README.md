@@ -614,3 +614,7 @@ awesome topic:
 28 OCT 2023
 
 [Front-end security best practices](https://griddynamics.medium.com/front-end-security-best-practices-8c47d23caf62)
+
+30 OCT 2023
+
+[Automatically Update npm Package Dependencies with Dependabot](https://colbyfayock.com/posts/automatically-update-npm-package-dependencies-with-dependabot/?utm_source=tldrwebdev)
