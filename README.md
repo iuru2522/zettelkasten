@@ -618,3 +618,9 @@ awesome topic:
 30 OCT 2023
 
 [Automatically Update npm Package Dependencies with Dependabot](https://colbyfayock.com/posts/automatically-update-npm-package-dependencies-with-dependabot/?utm_source=tldrwebdev)
+
+03 DEC 2023
+
+mustread!
+
+[The evolving landscape of API protocols in 2023](https://blog.postman.com/api-protocols-in-2023/?utm_source=tldrwebdev)
