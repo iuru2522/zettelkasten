@@ -624,3 +624,7 @@ awesome topic:
 mustread!
 
 [The evolving landscape of API protocols in 2023](https://blog.postman.com/api-protocols-in-2023/?utm_source=tldrwebdev)
+
+04 DEC 2023
+
+[CSS HOOKS](https://css-hooks.com/)
