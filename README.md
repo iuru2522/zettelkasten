@@ -628,3 +628,7 @@ mustread!
 04 DEC 2023
 
 [CSS HOOKS](https://css-hooks.com/)
+
+06 DEC 2023
+
+[JPA in Spring](https://docs.spring.io/spring-framework/reference/data-access/orm/jpa.html)
