@@ -632,3 +632,7 @@ mustread!
 06 DEC 2023
 
 [JPA in Spring](https://docs.spring.io/spring-framework/reference/data-access/orm/jpa.html)
+
+07 DEC 2023
+
+[macOS TCC](https://book.hacktricks.xyz/macos-hardening/macos-security-and-privilege-escalation/macos-security-protections/macos-tcc)
