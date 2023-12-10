@@ -636,3 +636,7 @@ mustread!
 07 DEC 2023
 
 [macOS TCC](https://book.hacktricks.xyz/macos-hardening/macos-security-and-privilege-escalation/macos-security-protections/macos-tcc)
+
+09 DEC 2023
+
+[CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023?utm_source=tldrwebdev)
