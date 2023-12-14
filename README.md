@@ -645,3 +645,7 @@ mustread!
 10 DEC 2023
 
 [Passkeys: What the Heck and Why? ](https://css-tricks.com/passkeys-what-the-heck-and-why/)
+
+13 DEC 2023
+
+[How to Create an Automated Profile README using Nodejs and GitHub Actions](https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=tldrwebdev)
