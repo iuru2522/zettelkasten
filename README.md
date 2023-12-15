@@ -649,3 +649,7 @@ mustread!
 13 DEC 2023
 
 [How to Create an Automated Profile README using Nodejs and GitHub Actions](https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=tldrwebdev)
+
+14 DEC 2023
+
+[Database types explained simply](https://www.swequiz.com/learn/database-types-explained?utm_source=tldrwebdev)
