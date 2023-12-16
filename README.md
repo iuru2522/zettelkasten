@@ -653,3 +653,7 @@ mustread!
 14 DEC 2023
 
 [Database types explained simply](https://www.swequiz.com/learn/database-types-explained?utm_source=tldrwebdev)
+
+15 DEC 2023
+
+[Introducing StyleX](https://stylexjs.com/blog/introducing-stylex)
