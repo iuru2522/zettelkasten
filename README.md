@@ -657,3 +657,7 @@ mustread!
 15 DEC 2023
 
 [Introducing StyleX](https://stylexjs.com/blog/introducing-stylex)
+
+18 DEC 2023
+
+[Database Fundamentals](https://tontinton.com/posts/database-fundementals/?utm_source=tldrwebdev)
