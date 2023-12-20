@@ -661,3 +661,7 @@ mustread!
 18 DEC 2023
 
 [Database Fundamentals](https://tontinton.com/posts/database-fundementals/?utm_source=tldrwebdev)
+
+19 DEC 2023
+
+[React Tricks: Fast, Fit and Fun](https://molefrog.com/notes/react-tricks?utm_source=tldrwebdev)
