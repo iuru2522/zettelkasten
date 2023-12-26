@@ -669,3 +669,7 @@ mustread!
 20 DEC 2023
 
 [Four trends that changed AI in 2023](https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/?utm_source=tldrwebdev)
+
+25 DEC 2023
+
+[HTML: The Bad Parts](https://www.htmhell.dev/adventcalendar/2023/13/)
