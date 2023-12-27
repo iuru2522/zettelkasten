@@ -673,3 +673,7 @@ mustread!
 25 DEC 2023
 
 [HTML: The Bad Parts](https://www.htmhell.dev/adventcalendar/2023/13/)
+
+25 DEC 2023
+
+[Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://github.com/apple/ml-ferret)
