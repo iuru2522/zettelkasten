@@ -677,3 +677,7 @@ mustread!
 25 DEC 2023
 
 [Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://github.com/apple/ml-ferret)
+
+28 DEC 2023
+
+[The View Transitions API And Delightful UI Animations (Part 1)](https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/)
