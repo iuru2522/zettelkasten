@@ -681,3 +681,7 @@ mustread!
 28 DEC 2023
 
 [The View Transitions API And Delightful UI Animations (Part 1)](https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/)
+
+29 DEC 2023
+
+[Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
