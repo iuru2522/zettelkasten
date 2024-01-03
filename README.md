@@ -685,3 +685,7 @@ mustread!
 29 DEC 2023
 
 [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
+
+JAN 03 2023
+
+[The history of Frontend](https://frontendhistory.com/)
