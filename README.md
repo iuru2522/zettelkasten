@@ -689,3 +689,7 @@ mustread!
 JAN 03 2023
 
 [The history of Frontend](https://frontendhistory.com/)
+
+JAN 03 2023
+
+[Web Sustainability Guidelines (WSG) 1.0](https://w3c.github.io/sustyweb/)
