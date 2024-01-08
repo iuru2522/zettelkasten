@@ -686,14 +686,18 @@ mustread!
 
 [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 
-JAN 03 2023
+JAN 03 2024
 
 [The history of Frontend](https://frontendhistory.com/)
 
-JAN 04 2023
+JAN 04 2024
 
 [Web Sustainability Guidelines (WSG) 1.0](https://w3c.github.io/sustyweb/)
 
-JAN 06 2023
+JAN 06 2024
 
 [REST-клієнти в Java-застосунках](https://dou.ua/forums/topic/46818/?from=fptech)
+
+JAN 07 2024
+
+[How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech?utm_source=tldrwebdev)
