@@ -701,3 +701,7 @@ JAN 06 2024
 JAN 07 2024
 
 [How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech?utm_source=tldrwebdev)
+
+JAN 08 2024
+
+[2023 JavaScript Rising Stars   ](https://risingstars.js.org/2023/en?utm_source=tldrwebdev)
