@@ -704,4 +704,8 @@ JAN 07 2024
 
 JAN 08 2024
 
-[2023 JavaScript Rising Stars   ](https://risingstars.js.org/2023/en?utm_source=tldrwebdev)
+[2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en?utm_source=tldrwebdev)
+
+JAN 09 2024
+
+[The Ultimate Guide for Making the Best Career Choices in Tech](https://dnastacio.medium.com/hierarchy-of-career-priorities-c18768d32598)
