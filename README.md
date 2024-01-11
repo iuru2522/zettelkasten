@@ -709,3 +709,7 @@ JAN 08 2024
 JAN 09 2024
 
 [The Ultimate Guide for Making the Best Career Choices in Tech](https://dnastacio.medium.com/hierarchy-of-career-priorities-c18768d32598)
+
+JAN 10 2024
+
+[How Discord Serves 15-Million Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users?r=2bjtip&utm_source=tldrwebdev)
