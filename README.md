@@ -717,3 +717,7 @@ JAN 10 2024
 JAN 11 2024
 
 [7 front-end web development trends for 2024](https://www.frontendmentor.io/articles/7-frontend-web-development-trends-for-2024-qtBD0H0hY3)
+
+JAN 12 2024
+
+[The Top Accessibility Errors Found in 2023](https://www.tpgi.com/the-top-accessibility-errors-found-in-2023/)
