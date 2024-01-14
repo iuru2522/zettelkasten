@@ -725,3 +725,7 @@ JAN 12 2024
 JAN 13 2024
 
 [Leveraging TypeScript for domain-driven design](https://blog.logrocket.com/typescript-domain-driven-design/)
+
+JAN 14 2024
+
+[How to Defend Against Server-Side Request Forgeryar](https://www.freecodecamp.org/news/defending-against-ssrf-attacks/)
