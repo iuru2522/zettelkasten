@@ -721,3 +721,7 @@ JAN 11 2024
 JAN 12 2024
 
 [The Top Accessibility Errors Found in 2023](https://www.tpgi.com/the-top-accessibility-errors-found-in-2023/)
+
+JAN 13 2024
+
+[Leveraging TypeScript for domain-driven design](https://blog.logrocket.com/typescript-domain-driven-design/)
