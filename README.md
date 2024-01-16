@@ -729,3 +729,7 @@ JAN 13 2024
 JAN 14 2024
 
 [How to Defend Against Server-Side Request Forgeryar](https://www.freecodecamp.org/news/defending-against-ssrf-attacks/)
+
+JAN 15 2024
+
+[5 CSS snippets every front-end developer should know in 2024](https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024)
