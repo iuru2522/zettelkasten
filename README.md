@@ -733,3 +733,7 @@ JAN 14 2024
 JAN 15 2024
 
 [5 CSS snippets every front-end developer should know in 2024](https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024)
+
+JAN 17 2024
+
+[Measuring Developer Productivity: Real-World Examples](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae?utm_source=tldrwebdev)
