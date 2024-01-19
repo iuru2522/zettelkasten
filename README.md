@@ -737,3 +737,7 @@ JAN 15 2024
 JAN 17 2024
 
 [Measuring Developer Productivity: Real-World Examples](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae?utm_source=tldrwebdev)
+
+JAN 18 2024
+
+[28 Advanced NextJS features everyone should know](https://codedrivendevelopment.com/posts/rarely-known-nextjs-features?utm_source=tldrwebdev)
