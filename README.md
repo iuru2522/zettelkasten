@@ -741,3 +741,7 @@ JAN 17 2024
 JAN 18 2024
 
 [28 Advanced NextJS features everyone should know](https://codedrivendevelopment.com/posts/rarely-known-nextjs-features?utm_source=tldrwebdev)
+
+JAN 19 2024
+
+[A developer’s second brain: Reducing complexity through partnership with AI](https://github.blog/2024-01-17-a-developers-second-brain-reducing-complexity-through-partnership-with-ai/?utm_source=tldrwebdev)
