@@ -745,3 +745,7 @@ JAN 18 2024
 JAN 19 2024
 
 [A developer’s second brain: Reducing complexity through partnership with AI](https://github.blog/2024-01-17-a-developers-second-brain-reducing-complexity-through-partnership-with-ai/?utm_source=tldrwebdev)
+
+JAN 20 2024
+
+[Accounting for Internationalization with CSS and HTML](https://sparkbox.com/foundry/internationalization_css_html)
