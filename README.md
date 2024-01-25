@@ -754,6 +754,10 @@ JAN 21 2024
 
 [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
 
-JAN 22 2024
+JAN 23 2024
 
 [Web Components 2024 Winter Update](https://eisenbergeffect.medium.com/web-components-2024-winter-update-445f27e7613a)
+
+JAN 24 2024
+
+[Working with IndexedDB](https://web.dev/articles/indexeddb)
