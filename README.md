@@ -761,3 +761,7 @@ JAN 23 2024
 JAN 24 2024
 
 [Working with IndexedDB](https://web.dev/articles/indexeddb)
+
+JAN 25 2024
+
+[67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
