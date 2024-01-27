@@ -765,3 +765,7 @@ JAN 24 2024
 JAN 25 2024
 
 [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+JAN 26 2024
+
+[React Libraries for 2024](https://www.robinwieruch.de/react-libraries/)
