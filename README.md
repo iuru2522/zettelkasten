@@ -769,3 +769,7 @@ JAN 25 2024
 JAN 26 2024
 
 [React Libraries for 2024](https://www.robinwieruch.de/react-libraries/)
+
+JAN 27 2024
+
+[Top Front-End Tools Of 2023](https://www.smashingmagazine.com/2024/01/top-frontend-tools-2023/)
