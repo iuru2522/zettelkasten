@@ -773,3 +773,7 @@ JAN 26 2024
 JAN 27 2024
 
 [Top Front-End Tools Of 2023](https://www.smashingmagazine.com/2024/01/top-frontend-tools-2023/)
+
+JAN 29 2024
+
+[New client-side hooks coming to React 19](https://marmelab.com/blog/2024/01/23/react-19-new-hooks.html)
