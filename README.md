@@ -777,3 +777,7 @@ JAN 27 2024
 JAN 29 2024
 
 [New client-side hooks coming to React 19](https://marmelab.com/blog/2024/01/23/react-19-new-hooks.html)
+
+JAN 30 2024
+
+[Developing a responsive mega menu in React](https://blog.logrocket.com/developing-responsive-mega-menu-react/)
