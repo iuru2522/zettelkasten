@@ -785,3 +785,7 @@ JAN 30 2024
 JAN 31 2024
 
 [The American Dynamism 50: AI (30 minute read)](https://a16z.com/american-dynamism-50-ai/?utm_source=tldrfounders)
+
+FEB 01 2024
+
+[Researchers say generative AI isn't replacing devs any time soon](https://leaddev.com/tech/researchers-say-generative-ai-isnt-replacing-devs-any-time-soon?utm_source=tldrwebdev)
