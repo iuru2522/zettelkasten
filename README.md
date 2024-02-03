@@ -789,3 +789,7 @@ JAN 31 2024
 FEB 01 2024
 
 [Researchers say generative AI isn't replacing devs any time soon](https://leaddev.com/tech/researchers-say-generative-ai-isnt-replacing-devs-any-time-soon?utm_source=tldrwebdev)
+
+FEB 02 2024
+
+[Dealing with Legacy Code as an Engineer](https://dev.to/adedaniel/dealing-with-legacy-code-as-an-engineer-261d)
