@@ -16,12 +16,13 @@
 
 ## DHCP
 
-## NTP
+## [NTP(Network Time Protocol)](https://www.techtarget.com/searchnetworking/definition/Network-Time-Protocol)
 
 
+## [SSO(Single Sign-On](https://www.okta.com/blog/2021/02/single-sign-on-sso/)
 
 
-# Containers
+## [Containers(Google)](https://cloud.google.com/learn/what-are-containers)
 
 ## LXC
 

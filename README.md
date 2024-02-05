@@ -793,3 +793,8 @@ FEB 01 2024
 FEB 02 2024
 
 [Dealing with Legacy Code as an Engineer](https://dev.to/adedaniel/dealing-with-legacy-code-as-an-engineer-261d)
+
+FEB 04 2024
+
+IMPORTANT!
+[Open Web Advocacy](https://open-web-advocacy.org/)
