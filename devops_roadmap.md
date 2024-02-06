@@ -8,9 +8,9 @@
 
 ## FTP
 
-## SSH
+## [SSH protocol](https://www.ssh.com/academy/ssh)
 
-## SMTP
+## [SMTP](https://www.cloudflare.com/learning/email-security/what-is-smtp/)
 
 ## DNS
 
@@ -27,6 +27,12 @@
 ## LXC
 
 ## Docker
+
+## Kubernetes
+
+## Terraform
+
+
 
 
 
