@@ -1,10 +1,10 @@
 # Networking Protocols
 
-## TCP/IP
+## [TCP/IP](https://www.fortinet.com/resources/cyberglossary/tcp-ip)
 
 ## HTTP
 
-## HTTPS
+## [HTTPS](https://www.cloudflare.com/learning/ssl/what-is-https/)
 
 ## FTP
 
