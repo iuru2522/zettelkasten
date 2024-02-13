@@ -802,3 +802,7 @@ IMPORTANT!
 FEB 10 2024
 
 [How to get in the flow while coding (and why it’s important)](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/?utm_source=tldrwebdev)
+
+FEB 12 2024
+
+[From many to one: Moving our JavaScript code into a monorepo](https://www.aha.io/engineering/articles/monorepo?utm_source=tldrwebdev)
