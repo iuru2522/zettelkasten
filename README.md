@@ -806,3 +806,7 @@ FEB 10 2024
 FEB 12 2024
 
 [From many to one: Moving our JavaScript code into a monorepo](https://www.aha.io/engineering/articles/monorepo?utm_source=tldrwebdev)
+
+FEB 13 2024
+
+[Big Tech jobs have lost their glamour](https://www.bbc.com/worklife/article/20240207-big-tech-layoffs-perks-cuts?utm_source=tldrwebdev)
