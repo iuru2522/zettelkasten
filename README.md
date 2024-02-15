@@ -810,3 +810,7 @@ FEB 12 2024
 FEB 13 2024
 
 [Big Tech jobs have lost their glamour](https://www.bbc.com/worklife/article/20240207-big-tech-layoffs-perks-cuts?utm_source=tldrwebdev)
+
+FEB 14 2024
+
+[How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/?utm_source=tldrwebdev)
