@@ -818,3 +818,7 @@ FEB 14 2024
 FEB 15 2024
 
 [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226&utm_source=tldrwebdev)
+
+FEB 16 2024
+
+[Building an LLM from scratch](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html?utm_source=tldrwebdev)
