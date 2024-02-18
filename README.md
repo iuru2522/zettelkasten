@@ -822,3 +822,7 @@ FEB 15 2024
 FEB 16 2024
 
 [Building an LLM from scratch](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html?utm_source=tldrwebdev)
+
+FEB 17 2024
+
+[Web Development Is Getting Too Complex, And It May Be Our Fault](https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/)
