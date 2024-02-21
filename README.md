@@ -827,6 +827,10 @@ FEB 17 2024
 
 [Web Development Is Getting Too Complex, And It May Be Our Fault](https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/)
 
-FEB 20 2024
+FEB 19 2024
 
 [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/?utm_source=tldrai#gemini-15)
+
+FEB 20 2024
+
+[Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
