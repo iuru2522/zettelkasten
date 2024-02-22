@@ -834,3 +834,7 @@ FEB 19 2024
 FEB 20 2024
 
 [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
+
+FEB 21 2024
+
+[Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt?utm_source=tldrwebdev)
