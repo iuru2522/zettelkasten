@@ -838,3 +838,7 @@ FEB 20 2024
 FEB 21 2024
 
 [Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt?utm_source=tldrwebdev)
+
+FEB 22 2024
+
+[React Trends in 2024](https://www.robinwieruch.de/react-trends/?utm_source=tldrwebdev)
