@@ -842,3 +842,7 @@ FEB 21 2024
 FEB 22 2024
 
 [React Trends in 2024](https://www.robinwieruch.de/react-trends/?utm_source=tldrwebdev)
+
+FEB 23 2024
+
+[Tell HN: GPT copilots aren’t that great for programming](https://news.ycombinator.com/item?id=39460788&utm_source=tldrwebdev)
