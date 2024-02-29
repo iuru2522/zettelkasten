@@ -846,3 +846,7 @@ FEB 22 2024
 FEB 23 2024
 
 [Tell HN: GPT copilots aren’t that great for programming](https://news.ycombinator.com/item?id=39460788&utm_source=tldrwebdev)
+
+FEB 28 2024
+
+[How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/?utm_source=tldrwebdev)
