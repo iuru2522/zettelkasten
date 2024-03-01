@@ -850,3 +850,7 @@ FEB 23 2024
 FEB 28 2024
 
 [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/?utm_source=tldrwebdev)
+
+FEB 29 2024
+
+[CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/?utm_source=tldrwebdev)
