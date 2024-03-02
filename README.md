@@ -854,3 +854,7 @@ FEB 28 2024
 FEB 29 2024
 
 [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/?utm_source=tldrwebdev)
+
+MAR 01 2024
+
+[Where I’m at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/?utm_source=tldrwebdev)
