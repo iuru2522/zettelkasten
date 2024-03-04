@@ -858,3 +858,7 @@ FEB 29 2024
 MAR 01 2024
 
 [Where I’m at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/?utm_source=tldrwebdev)
+
+MAR 03 2024
+
+[New Cloudflare Report Shows Organizations Struggle to Identify and Manage Cybersecurity Risks of APIs](https://www.cloudflare.com/press-releases/2024/press-releases/2024/new-cloudflare-report-shows-organizations-struggle-to-identify-and-manage/)
