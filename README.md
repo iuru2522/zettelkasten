@@ -866,3 +866,7 @@ MAR 03 2024
 MAR 05 2024
 
 [Introducing the next generation of Claude](https://www.anthropic.com/news/claude-3-family?utm_source=tldrai)
+
+MAR 10 2024
+
+[Announcing TypeScript 5.4  ](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/?retry&utm_source=tldrwebdev)
