@@ -869,4 +869,9 @@ MAR 05 2024
 
 MAR 10 2024
 
-[Announcing TypeScript 5.4  ](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/?retry&utm_source=tldrwebdev)
+[Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/?retry&utm_source=tldrwebdev)
+
+MAR 12 2024
+
+[The quiet, pervasive devaluation of frontend](https://joshcollinsworth.com/blog/devaluing-frontend?utm_source=tldrwebdev)
+
