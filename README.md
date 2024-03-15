@@ -875,3 +875,6 @@ MAR 12 2024
 
 [The quiet, pervasive devaluation of frontend](https://joshcollinsworth.com/blog/devaluing-frontend?utm_source=tldrwebdev)
 
+MAR 13 2024
+
+[LLMs are not enough… why chatbots need knowledge representation](https://blog.anj.ai/2024/03/knowledge.html?utm_source=tldrwebdev)
