@@ -878,3 +878,7 @@ MAR 12 2024
 MAR 13 2024
 
 [LLMs are not enough… why chatbots need knowledge representation](https://blog.anj.ai/2024/03/knowledge.html?utm_source=tldrwebdev)
+
+MAR 16 2024
+
+[Comparing JavaScript Frameworks part 1: templates](https://www.maartenhus.nl/blog/comparing-javascript-frameworks-part-1-templates/?utm_source=tldrwebdev)
