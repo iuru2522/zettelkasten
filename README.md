@@ -886,3 +886,7 @@ MAR 16 2024
 MAR 17 2024
 
 [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/abs/2311.11855v1?utm_source=tldrai)
+
+MAR 18 2024
+
+[100 Gen AI Apps](https://a16z.com/100-Gen-AI-Apps/)
