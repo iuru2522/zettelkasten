@@ -882,3 +882,7 @@ MAR 13 2024
 MAR 16 2024
 
 [Comparing JavaScript Frameworks part 1: templates](https://www.maartenhus.nl/blog/comparing-javascript-frameworks-part-1-templates/?utm_source=tldrwebdev)
+
+MAR 17 2024
+
+[Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/abs/2311.11855v1?utm_source=tldrai)
