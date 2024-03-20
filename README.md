@@ -890,3 +890,7 @@ MAR 17 2024
 MAR 18 2024
 
 [100 Gen AI Apps](https://a16z.com/100-Gen-AI-Apps/)
+
+MAR 19 2024
+
+[The Mechanics of Async Awai](https://blog.resonatehq.io/async-await-mechanics?utm_source=tldrwebdev)
