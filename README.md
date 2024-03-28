@@ -894,3 +894,7 @@ MAR 18 2024
 MAR 19 2024
 
 [The Mechanics of Async Awai](https://blog.resonatehq.io/async-await-mechanics?utm_source=tldrwebdev)
+
+MAR 27 2024
+
+[Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
