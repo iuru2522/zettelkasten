@@ -898,3 +898,7 @@ MAR 19 2024
 MAR 27 2024
 
 [Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+
+MAR 29 2024
+
+[Frontend Debugging Is Bad and it Should Feel Bad](https://www.honeycomb.io/blog/frontend-debugging-is-bad?utm_source=tldrwebdev)
