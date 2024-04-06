@@ -902,3 +902,7 @@ MAR 27 2024
 MAR 29 2024
 
 [Frontend Debugging Is Bad and it Should Feel Bad](https://www.honeycomb.io/blog/frontend-debugging-is-bad?utm_source=tldrwebdev)
+
+ARP 5 2024
+
+[How GitHub Copilot Works](https://blog.quastor.org/p/github-copilot-works?utm_source=tldrwebdev)
