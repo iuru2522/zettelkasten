@@ -909,4 +909,9 @@ ARP 05 2024
 
 APR 06 2024
 
-[LFS](https://www.linuxfromscratch.org/)
+[LFS(Linux From Scratch)](https://www.linuxfromscratch.org/)
+
+
+APR 07 2024
+
+[Lesson 3 - Soft Skills: Gaining Technical Breadth (Feb 5, 2018)](https://www.developertoarchitect.com/lessons/lesson3.html)
