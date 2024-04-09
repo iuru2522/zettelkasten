@@ -915,3 +915,8 @@ APR 06 2024
 APR 07 2024
 
 [Lesson 3 - Soft Skills: Gaining Technical Breadth (Feb 5, 2018)](https://www.developertoarchitect.com/lessons/lesson3.html)
+
+
+APR 08 2024 
+
+[The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion?utm_source=tldrwebdev)
