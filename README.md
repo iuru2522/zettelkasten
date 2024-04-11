@@ -920,3 +920,7 @@ APR 07 2024
 APR 08 2024 
 
 [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion?utm_source=tldrwebdev)
+
+APR 10 2024
+
+[Reddit's Architecture: The Evolutionary Journey](https://blog.bytebytego.com/p/reddits-architecture-the-evolutionary?utm_source=tldrwebdevs)
