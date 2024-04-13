@@ -924,3 +924,7 @@ APR 08 2024
 APR 10 2024
 
 [Reddit's Architecture: The Evolutionary Journey](https://blog.bytebytego.com/p/reddits-architecture-the-evolutionary?utm_source=tldrwebdevs)
+
+APR 13 2024
+
+[The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
