@@ -928,3 +928,7 @@ APR 10 2024
 APR 13 2024
 
 [The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
+
+APR 15 2024
+
+[new useTransition hook(REACT)](https://react.dev/reference/react/useTransition?utm_source=tldrwebdev)
