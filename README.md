@@ -932,3 +932,7 @@ APR 13 2024
 APR 15 2024
 
 [new useTransition hook(REACT)](https://react.dev/reference/react/useTransition?utm_source=tldrwebdev)
+
+APR 16 2024
+
+[CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/?utm_source=tldrwebdev)
