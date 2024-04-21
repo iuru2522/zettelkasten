@@ -941,3 +941,7 @@ APR 16 2024
 APR 18 2024
 
 [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/?utm_source=tldrwebdev)
+
+APR 20 2024
+
+[What was the most genius hack you did in webdev? (Reddit thread)](https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/?utm_source=tldrwebdev)
