@@ -949,3 +949,7 @@ APR 20 2024
 APR 21 2024
 
 [How PayPal Serves 350 Billion Daily Requests with JunoDB](https://blog.bytebytego.com/p/how-paypal-serves-350-billion-daily?r=2bjtip&utm_medium=ios&utm_source=tldrwebdev&triedRedirect=true)
+
+APR 23 2024
+
+[How to Style a React Application](https://alexkondov.com/full-stack-tao-styling/)
