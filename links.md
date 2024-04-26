@@ -953,3 +953,7 @@ APR 21 2024
 APR 23 2024
 
 [How to Style a React Application](https://alexkondov.com/full-stack-tao-styling/)
+
+APR 25 2024
+
+[Why don’t we talk about minifying CSS anymore?](https://blog.sentry.io/why-dont-we-talk-about-minifying-css/?utm_source=tldrwebdev)
