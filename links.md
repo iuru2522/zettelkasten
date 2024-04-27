@@ -957,3 +957,7 @@ APR 23 2024
 APR 25 2024
 
 [Why don’t we talk about minifying CSS anymore?](https://blog.sentry.io/why-dont-we-talk-about-minifying-css/?utm_source=tldrwebdev)
+
+APR 26 2024
+
+[How To Monitor And Optimize Google Core Web Vitals](https://www.smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/)
