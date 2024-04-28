@@ -961,3 +961,7 @@ APR 25 2024
 APR 26 2024
 
 [How To Monitor And Optimize Google Core Web Vitals](https://www.smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/)
+
+APR 27 2024
+
+[Web Components adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/web-components-adoption-guide/)
