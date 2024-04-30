@@ -965,3 +965,8 @@ APR 26 2024
 APR 27 2024
 
 [Web Components adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/web-components-adoption-guide/)
+
+APR 29 2024
+
+[A brief history of web development. And why your framework doesn't matter.](https://gebna.gg/blog/brief-history-of-web-development?utm_source=tldrwebdev)
+
