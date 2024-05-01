@@ -970,3 +970,7 @@ APR 29 2024
 
 [A brief history of web development. And why your framework doesn't matter.](https://gebna.gg/blog/brief-history-of-web-development?utm_source=tldrwebdev)
 
+APR 30 2024
+
+[Ask HN: What was the job market like during the dot-com crash? (Hacker News Thread)](https://news.ycombinator.com/item?id=8781768&utm_source=tldrwebdev)
+
