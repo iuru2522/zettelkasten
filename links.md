@@ -974,3 +974,6 @@ APR 30 2024
 
 [Ask HN: What was the job market like during the dot-com crash? (Hacker News Thread)](https://news.ycombinator.com/item?id=8781768&utm_source=tldrwebdev)
 
+MAY 2024
+
+[An Introduction to the Node.js Performance API](https://betterstack.com/community/guides/scaling-nodejs/performance-apis/?utm_source=tldrwebdev)
