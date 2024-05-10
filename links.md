@@ -981,3 +981,7 @@ MAY 03 2024
 MAY 05 2024
 
 [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/#3.1)
+
+MAY 10 2024
+
+[Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/?utm_source=tldrwebdev)
