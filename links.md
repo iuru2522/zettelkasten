@@ -985,3 +985,7 @@ MAY 05 2024
 MAY 10 2024
 
 [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/?utm_source=tldrwebdev)
+
+MAY 14 2024
+
+[Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful?utm_source=tldrwebdev)
