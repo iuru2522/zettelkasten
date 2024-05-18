@@ -989,3 +989,9 @@ MAY 10 2024
 MAY 14 2024
 
 [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful?utm_source=tldrwebdev)
+
+MAY 18 2024
+
+from web development class!
+
+[How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/)
