@@ -995,3 +995,7 @@ MAY 18 2024
 from web development class!
 
 [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/)
+
+MAY 21 2024
+
+[When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
