@@ -999,3 +999,7 @@ from web development class!
 MAY 21 2024
 
 [When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
+
+MAY 22 2024
+
+[Multi-page application View Transitions are here (Google I/O 2024)](https://www.bram.us/2024/05/17/multi-page-application-view-transitions-are-here-google-i-o-2024/)
