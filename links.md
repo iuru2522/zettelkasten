@@ -1003,3 +1003,7 @@ MAY 21 2024
 MAY 22 2024
 
 [Multi-page application View Transitions are here (Google I/O 2024)](https://www.bram.us/2024/05/17/multi-page-application-view-transitions-are-here-google-i-o-2024/)
+
+MAY 25 2024
+
+[Using WebRTC to implement P2P video streaming](https://blog.logrocket.com/webrtc-video-streaming/)
