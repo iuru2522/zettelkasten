@@ -1011,3 +1011,7 @@ MAY 25 2024
 MAY 26 2024
 
 [How to document your JavaScript package](https://deno.com/blog/document-javascript-package)
+
+MAY 28 2024
+
+[When should we use components and when should we just use HTML?](https://chrissmith.xyz/blog/2024/when-should-we-use-components-and-when-should-we-just-use-html/)
