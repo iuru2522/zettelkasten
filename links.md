@@ -1015,3 +1015,7 @@ MAY 26 2024
 MAY 28 2024
 
 [When should we use components and when should we just use HTML?](https://chrissmith.xyz/blog/2024/when-should-we-use-components-and-when-should-we-just-use-html/)
+
+MAY 29 2024
+
+[Animating the Dialog Element](https://frontendmasters.com/blog/animating-dialog/)
