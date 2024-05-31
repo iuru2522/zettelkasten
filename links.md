@@ -1019,3 +1019,9 @@ MAY 28 2024
 MAY 29 2024
 
 [Animating the Dialog Element](https://frontendmasters.com/blog/animating-dialog/)
+
+MAY 30 2024
+
+[Announcing the Web Platform Dashboard](https://web.dev/blog/web-platform-dashboard)
+
+[Dev docs](https://devdocs.io/)
