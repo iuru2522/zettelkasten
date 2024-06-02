@@ -1025,3 +1025,7 @@ MAY 30 2024
 [Announcing the Web Platform Dashboard](https://web.dev/blog/web-platform-dashboard)
 
 [Dev docs](https://devdocs.io/)
+
+02 JUN 2024
+
+[Console insights: Understand errors and warnings better with Gemini](https://developer.chrome.com/docs/devtools/console/understand-messages)
