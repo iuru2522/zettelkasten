@@ -1029,3 +1029,7 @@ MAY 30 2024
 02 JUN 2024
 
 [Console insights: Understand errors and warnings better with Gemini](https://developer.chrome.com/docs/devtools/console/understand-messages)
+
+03 JUN 2024
+
+["Web components" considered harmful](https://www.mayank.co/blog/web-components-considered-harmful/)
