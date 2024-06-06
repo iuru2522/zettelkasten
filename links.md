@@ -1033,3 +1033,7 @@ MAY 30 2024
 03 JUN 2024
 
 ["Web components" considered harmful](https://www.mayank.co/blog/web-components-considered-harmful/)
+
+05 JUN 2024
+
+[Dark mode & accessibility myth](https://stephaniewalter.design/blog/dark-mode-accessibility-myth-debunked/)
