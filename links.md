@@ -1037,3 +1037,7 @@ MAY 30 2024
 05 JUN 2024
 
 [Dark mode & accessibility myth](https://stephaniewalter.design/blog/dark-mode-accessibility-myth-debunked/)
+
+06 JUN 2024
+
+[How I finally quit abandoning my side-projects and launched my first paid SaaS product (Reddit Thread)](https://www.reddit.com/r/webdev/comments/1d8y7vo/how_i_finally_quit_abandoning_my_sideprojects_and/?utm_source=tldrwebdev)
