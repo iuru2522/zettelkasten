@@ -1041,3 +1041,7 @@ MAY 30 2024
 06 JUN 2024
 
 [How I finally quit abandoning my side-projects and launched my first paid SaaS product (Reddit Thread)](https://www.reddit.com/r/webdev/comments/1d8y7vo/how_i_finally_quit_abandoning_my_sideprojects_and/?utm_source=tldrwebdev)
+
+09 JUN 2024
+
+[Will Scaling Solve Robotics?](https://spectrum.ieee.org/solve-robotics?utm_source=tldrai)
