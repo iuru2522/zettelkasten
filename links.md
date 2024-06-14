@@ -1050,6 +1050,11 @@ MAY 30 2024
 
 [CSS Length Units ](https://css-tricks.com/css-length-units/)
 
-11 JUN 2023
+11 JUN 2024
 
 [Learn Testing by web.dev](https://web.dev/learn/testing)
+
+
+13 JUN 2023
+
+[Why Are There No Mobile Accessibility Guidelines in WCAG?](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/)
