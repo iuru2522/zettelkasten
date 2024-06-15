@@ -1055,6 +1055,10 @@ MAY 30 2024
 [Learn Testing by web.dev](https://web.dev/learn/testing)
 
 
-13 JUN 2023
+13 JUN 2024
 
 [Why Are There No Mobile Accessibility Guidelines in WCAG?](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/)
+
+14 JUN 2024
+
+[The Modern Guide For Making CSS Shapes](https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/)
