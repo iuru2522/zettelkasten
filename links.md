@@ -1062,3 +1062,7 @@ MAY 30 2024
 14 JUN 2024
 
 [The Modern Guide For Making CSS Shapes](https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/)
+
+15 JUN 2024
+
+[Data Integrity (oracle)](https://docs.oracle.com/en/database/oracle/oracle-database/23/cncpt/data-integrity.html#GUID-A8893CD7-8B19-42AA-8550-9713071FA679)
