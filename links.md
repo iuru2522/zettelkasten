@@ -1066,3 +1066,10 @@ MAY 30 2024
 15 JUN 2024
 
 [Data Integrity (oracle)](https://docs.oracle.com/en/database/oracle/oracle-database/23/cncpt/data-integrity.html#GUID-A8893CD7-8B19-42AA-8550-9713071FA679)
+
+
+16 JUN 2024
+[Live Demos of Stand Alone Web Components](https://frontendmasters.com/blog/live-demos-of-stand-alone-web-components/)
+
+
+
