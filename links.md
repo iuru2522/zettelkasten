@@ -1071,5 +1071,5 @@ MAY 30 2024
 16 JUN 2024
 [Live Demos of Stand Alone Web Components](https://frontendmasters.com/blog/live-demos-of-stand-alone-web-components/)
 
-
-
+17 JUN 2024
+[Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
