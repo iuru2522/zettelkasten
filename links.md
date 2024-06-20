@@ -1077,3 +1077,7 @@ MAY 30 2024
 18 JUN 2024
 
 [CSS Length Units](https://css-tricks.com/css-length-units/)
+
+19 JUN 2024 
+
+[The latest in CSS and web UI: I/O 2024 recap   ](https://developer.chrome.com/blog/new-in-web-ui-io-2024?utm_source=tldrwebdev#view_transitions)
