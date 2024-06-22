@@ -1081,3 +1081,7 @@ MAY 30 2024
 19 JUN 2024 
 
 [The latest in CSS and web UI: I/O 2024 recap   ](https://developer.chrome.com/blog/new-in-web-ui-io-2024?utm_source=tldrwebdev#view_transitions)
+
+21 JUN 2024
+
+[The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain?utm_source=tldrwebdev)
