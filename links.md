@@ -1085,3 +1085,7 @@ MAY 30 2024
 21 JUN 2024
 
 [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain?utm_source=tldrwebdev)
+
+22 JUN 2024
+
+[How to compose JavaScript functions that take multiple parameters (the epic guide)](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
