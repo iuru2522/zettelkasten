@@ -1089,3 +1089,7 @@ MAY 30 2024
 22 JUN 2024
 
 [How to compose JavaScript functions that take multiple parameters (the epic guide)](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
+
+27 JUN 2024
+
+[Exploring How Cache Memory Really Works](https://pikuma.com/blog/understanding-computer-cache?utm_source=tldrwebdev)
