@@ -1101,3 +1101,7 @@ MAY 30 2024
 01 JUL 2024
 
 [State of JS 2023](https://2023.stateofjs.com/en-US)
+
+02 JUN 2024
+
+[New Web Development. Or, why Copilots and chatbots are particularly bad for modern web dev](https://www.baldurbjarnason.com/2024/new-web-dev/?utm_source=tldrwebdev)
