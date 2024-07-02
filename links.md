@@ -1097,3 +1097,7 @@ MAY 30 2024
 30 JUN 2024
 
 [The Deno Team Releases JSR, a New JavaScript Package Registry](https://www.infoq.com/news/2024/05/jsr-deno-js-package-registry/)
+
+01 JUL 2024
+
+[State of JS 2023](https://2023.stateofjs.com/en-US)
