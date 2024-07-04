@@ -1105,3 +1105,7 @@ MAY 30 2024
 02 JUN 2024
 
 [New Web Development. Or, why Copilots and chatbots are particularly bad for modern web dev](https://www.baldurbjarnason.com/2024/new-web-dev/?utm_source=tldrwebdev)
+
+03 JUN 2024
+
+[Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root?utm_source=tldrwebdev)
