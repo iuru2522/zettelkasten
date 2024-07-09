@@ -1117,3 +1117,9 @@ MAY 30 2024
 06 JUN 2024
 
 [CSS Length Units ](https://css-tricks.com/css-length-units/)
+
+08 JUN 2024
+
+[Task Class](https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=net-8.0)
+
+[HttpClient Class](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-8.0)
