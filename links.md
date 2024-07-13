@@ -1131,3 +1131,7 @@ MAY 30 2024
 11 JUN 2024
 
 [What is Old is New Again](https://newsletter.pragmaticengineer.com/p/what-is-old-is-new-again?r=2bjtip&utm_medium=ios&utm_source=tldrwebdev&triedRedirect=true)
+
+12 JUN 2024
+
+[From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react?utm_source=tldrwebdev)
