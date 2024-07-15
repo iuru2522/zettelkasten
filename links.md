@@ -1135,3 +1135,7 @@ MAY 30 2024
 12 JUN 2024
 
 [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react?utm_source=tldrwebdev)
+
+13 JUN 2024
+
+[How close is AI to replacing product managers?](https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product?utm_source=tldrproduct)
