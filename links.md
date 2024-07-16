@@ -1139,3 +1139,7 @@ MAY 30 2024
 13 JUN 2024
 
 [How close is AI to replacing product managers?](https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product?utm_source=tldrproduct)
+
+15 JUN 2024
+
+[DataSet Class](https://learn.microsoft.com/en-us/dotnet/api/system.data.dataset?view=net-8.0)
