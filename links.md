@@ -1143,3 +1143,7 @@ MAY 30 2024
 15 JUN 2024
 
 [DataSet Class](https://learn.microsoft.com/en-us/dotnet/api/system.data.dataset?view=net-8.0)
+
+21 JUN 2024
+
+[Odin: Uber’s Stateful Platform](https://www.uber.com/en-CA/blog/odin-stateful-platform/?utm_source=tldrwebdev)
