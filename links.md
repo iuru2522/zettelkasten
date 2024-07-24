@@ -1147,3 +1147,7 @@ MAY 30 2024
 21 JUN 2024
 
 [Odin: Uber’s Stateful Platform](https://www.uber.com/en-CA/blog/odin-stateful-platform/?utm_source=tldrwebdev)
+
+22 JUN 2024
+
+[Copying is the way how design works](https://matthewstrom.com/writing/copying/?utm_source=tldrwebdev)
