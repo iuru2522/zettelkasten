@@ -1151,3 +1151,7 @@ MAY 30 2024
 22 JUN 2024
 
 [Copying is the way how design works](https://matthewstrom.com/writing/copying/?utm_source=tldrwebdev)
+
+28 JUN 2024
+
+[AI didn't take my job](https://dava.ai/n/hank/ai-didnt-take-my-job?utm_source=tldrwebdev)
