@@ -1155,3 +1155,7 @@ MAY 30 2024
 28 JUN 2024
 
 [AI didn't take my job](https://dava.ai/n/hank/ai-didnt-take-my-job?utm_source=tldrwebdev)
+
+29 JUN 2024
+
+[A gentle introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/?utm_source=tldrwebdev)
