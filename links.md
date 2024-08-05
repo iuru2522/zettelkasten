@@ -1163,3 +1163,7 @@ MAY 30 2024
 30 JUL 2024
 
 [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/?utm_source=tldrwebdev)
+
+04 AUG 2024
+
+[Dissecting Partial Pre Rendering](https://www.nikhilsnayak.dev/blogs/dissecting-partial-pre-rendering?utm_source=tldrwebdev)
