@@ -1167,3 +1167,7 @@ MAY 30 2024
 04 AUG 2024
 
 [Dissecting Partial Pre Rendering](https://www.nikhilsnayak.dev/blogs/dissecting-partial-pre-rendering?utm_source=tldrwebdev)
+
+05 AUG 2024
+
+[How the European Accessibility Act (EAA) will impact the way services are provided](https://www.deque.com/blog/how-the-european-accessibility-act-eaa-will-impact-the-way-services-are-provided/)
