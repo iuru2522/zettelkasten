@@ -1171,3 +1171,7 @@ MAY 30 2024
 05 AUG 2024
 
 [How the European Accessibility Act (EAA) will impact the way services are provided](https://www.deque.com/blog/how-the-european-accessibility-act-eaa-will-impact-the-way-services-are-provided/)
+
+06 AUG 2024
+
+[Should the daily stand-up die?](https://leaddev.com/process/should-daily-stand-die)
