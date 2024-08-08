@@ -1175,3 +1175,7 @@ MAY 30 2024
 06 AUG 2024
 
 [Should the daily stand-up die?](https://leaddev.com/process/should-daily-stand-die)
+
+07 AUG 2024
+
+[Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/?utm_source=tldrwebdev)
