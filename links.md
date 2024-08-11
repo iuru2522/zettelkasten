@@ -1179,3 +1179,7 @@ MAY 30 2024
 07 AUG 2024
 
 [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/?utm_source=tldrwebdev)
+
+10 AUG 2024
+
+[Klarna’s AI chatbot: how revolutionary is it, really?](https://blog.pragmaticengineer.com/klarnas-ai-chatbot/?utm_source=tldrwebdev)
