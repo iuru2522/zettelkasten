@@ -1183,3 +1183,7 @@ MAY 30 2024
 10 AUG 2024
 
 [Klarna’s AI chatbot: how revolutionary is it, really?](https://blog.pragmaticengineer.com/klarnas-ai-chatbot/?utm_source=tldrwebdev)
+
+11 AUG 2024
+
+[Leaving the web industry](https://minutestomidnight.co.uk/blog/leaving-the-web-industry/)
