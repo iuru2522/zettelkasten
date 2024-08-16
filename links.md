@@ -1187,3 +1187,7 @@ MAY 30 2024
 11 AUG 2024
 
 [Leaving the web industry](https://minutestomidnight.co.uk/blog/leaving-the-web-industry/)
+
+15 AUG 2024
+
+[Developers hate their job, but like to code outside work](https://newsletter.techworld-with-milan.com/p/developer-hate-their-job-but-like?utm_source=tldrwebdev)
