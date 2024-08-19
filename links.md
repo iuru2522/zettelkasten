@@ -1191,3 +1191,7 @@ MAY 30 2024
 15 AUG 2024
 
 [Developers hate their job, but like to code outside work](https://newsletter.techworld-with-milan.com/p/developer-hate-their-job-but-like?utm_source=tldrwebdev)
+
+18 AUG 2024
+
+[Should you Start a Startup?](https://hybridhacker.email/p/should-you-start-a-startup?r=2bjtip&utm_medium=ios&utm_source=tldrwebdev&triedRedirect=true)
