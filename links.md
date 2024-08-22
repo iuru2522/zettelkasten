@@ -1195,3 +1195,9 @@ MAY 30 2024
 18 AUG 2024
 
 [Should you Start a Startup?](https://hybridhacker.email/p/should-you-start-a-startup?r=2bjtip&utm_medium=ios&utm_source=tldrwebdev&triedRedirect=true)
+
+21 AUG 2024
+
+[Is it me, or this company's expectations of a junior are too high? (Reddit)](https://www.reddit.com/r/webdev/comments/1evlwbd/is_it_me_or_this_companys_expectations_of_a/?utm_source=tldrwebdev)
+
+[Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/?utm_source=tldrai)
