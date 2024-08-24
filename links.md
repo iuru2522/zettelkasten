@@ -1201,3 +1201,7 @@ MAY 30 2024
 [Is it me, or this company's expectations of a junior are too high? (Reddit)](https://www.reddit.com/r/webdev/comments/1evlwbd/is_it_me_or_this_companys_expectations_of_a/?utm_source=tldrwebdev)
 
 [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/?utm_source=tldrai)
+
+24 AUG 2024
+
+[Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/gists/everything-about-google-translate-crashing-react?utm_source=tldrwebdev)
