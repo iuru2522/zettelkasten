@@ -1202,6 +1202,10 @@ MAY 30 2024
 
 [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/?utm_source=tldrai)
 
-24 AUG 2024
+23 AUG 2024
 
 [Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/gists/everything-about-google-translate-crashing-react?utm_source=tldrwebdev)
+
+24 AUG 2024
+
+[Competing in search](https://www.ben-evans.com/benedictevans/2024/8/19/competing-in-search)
