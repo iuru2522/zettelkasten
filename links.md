@@ -1209,3 +1209,7 @@ MAY 30 2024
 24 AUG 2024
 
 [Competing in search](https://www.ben-evans.com/benedictevans/2024/8/19/competing-in-search)
+
+25 AUG 2024
+
+[How I upped my frontend game with generative UI](https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc)
