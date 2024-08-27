@@ -1213,3 +1213,7 @@ MAY 30 2024
 25 AUG 2024
 
 [How I upped my frontend game with generative UI](https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc)
+
+26 AUG 2024
+
+[react is a full stack framework ](https://www.robinwieruch.de/react-full-stack-framework/)
