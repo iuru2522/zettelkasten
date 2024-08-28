@@ -1217,3 +1217,7 @@ MAY 30 2024
 26 AUG 2024
 
 [react is a full stack framework ](https://www.robinwieruch.de/react-full-stack-framework/)
+
+27 AUG 2024
+
+[How Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions?utm_source=tldrwebdev)
