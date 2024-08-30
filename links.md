@@ -1221,3 +1221,7 @@ MAY 30 2024
 27 AUG 2024
 
 [How Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions?utm_source=tldrwebdev)
+
+29 AUG 2024
+
+[Server-first Web Components with DSD, HTMX, and Islands](https://tympanus.net/codrops/2024/08/20/server-first-web-components-with-dsd-htmx-and-islands/)
