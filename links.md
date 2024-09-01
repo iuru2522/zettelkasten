@@ -1225,3 +1225,6 @@ MAY 30 2024
 29 AUG 2024
 
 [Server-first Web Components with DSD, HTMX, and Islands](https://tympanus.net/codrops/2024/08/20/server-first-web-components-with-dsd-htmx-and-islands/)
+
+31 AUG 2024
+[Mastering SOLID principles in REACT](https://dev.to/vyan/mastering-solid-principles-in-react-elevating-your-code-quality-2c6h)
