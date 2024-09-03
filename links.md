@@ -1233,3 +1233,7 @@ MAY 30 2024
 01 SEP 2024
 
 [how to reduce unused javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
+
+02 SEP 2024
+
+[](https://frontendmasters.com/blog/what-skills-should-you-focus-on-as-junior-web-developer-in-2024/)
