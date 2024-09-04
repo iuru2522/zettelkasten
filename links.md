@@ -1236,4 +1236,8 @@ MAY 30 2024
 
 02 SEP 2024
 
-[](https://frontendmasters.com/blog/what-skills-should-you-focus-on-as-junior-web-developer-in-2024/)
+[What Skills Should You Focus on as Junior Web Developer in 2024? ](https://frontendmasters.com/blog/what-skills-should-you-focus-on-as-junior-web-developer-in-2024/)
+
+03 SEP 2024
+
+[The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
