@@ -1241,3 +1241,7 @@ MAY 30 2024
 03 SEP 2024
 
 [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+
+04 SEP 2024
+
+[](https://www.debugbear.com/blog/fix-web-performance-devtools)
