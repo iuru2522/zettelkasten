@@ -1245,3 +1245,6 @@ MAY 30 2024
 04 SEP 2024
 
 [](https://www.debugbear.com/blog/fix-web-performance-devtools)
+
+05 SEP 2024
+[](https://fotis.xyz/posts/introducing-svg-use/)
