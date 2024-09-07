@@ -1244,7 +1244,11 @@ MAY 30 2024
 
 04 SEP 2024
 
-[](https://www.debugbear.com/blog/fix-web-performance-devtools)
+[Brand New Performance Features in Chrome DevTools](https://www.debugbear.com/blog/fix-web-performance-devtools)
 
 05 SEP 2024
-[](https://fotis.xyz/posts/introducing-svg-use/)
+[Introducing @svg-use](https://fotis.xyz/posts/introducing-svg-use/)
+
+07 SEP 2024
+
+[How to configure ESLint for React Projects?](https://scientyficworld.org/how-to-configure-eslint-for-react-projects/)
