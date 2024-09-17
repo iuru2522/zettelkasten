@@ -1252,3 +1252,7 @@ MAY 30 2024
 07 SEP 2024
 
 [How to configure ESLint for React Projects?](https://scientyficworld.org/how-to-configure-eslint-for-react-projects/)
+
+16 SEP 2024
+
+[Why ChatGPT Shifted From Next.js To Remix: Some Theories](https://thenewstack.io/why-chatgpt-shifted-from-next-js-to-remix-some-theories/)
