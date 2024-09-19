@@ -1256,3 +1256,7 @@ MAY 30 2024
 16 SEP 2024
 
 [Why ChatGPT Shifted From Next.js To Remix: Some Theories](https://thenewstack.io/why-chatgpt-shifted-from-next-js-to-remix-some-theories/)
+
+18 SEP 2024
+
+[a different way to think about typescript](https://www.rob.directory/blog/a-different-way-to-think-about-typescript?utm_source=tldrwebdev)
