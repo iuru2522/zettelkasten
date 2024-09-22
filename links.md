@@ -1257,10 +1257,15 @@ MAY 30 2024
 
 [Why ChatGPT Shifted From Next.js To Remix: Some Theories](https://thenewstack.io/why-chatgpt-shifted-from-next-js-to-remix-some-theories/)
 
-20 SEP 2024
-
-[](https://www.joshwcomeau.com/css/has/)
 
 18 SEP 2024
 
 [a different way to think about typescript](https://www.rob.directory/blog/a-different-way-to-think-about-typescript?utm_source=tldrwebdev)
+
+20 SEP 2024
+
+[The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
+
+21 SEP 2024
+
+[EpochAI](https://epochai.org/)
