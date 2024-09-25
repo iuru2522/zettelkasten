@@ -1272,4 +1272,8 @@ MAY 30 2024
 
 24 SEP 2024
 
-[](https://javascript.tm/)
+[Oracle, it’s time to free JavaScript.](https://javascript.tm/)
+
+25 SEP 2024
+
+[Redesign Case Study](https://ishadeed.com/article/redesign-2024/)
