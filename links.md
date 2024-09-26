@@ -1277,3 +1277,7 @@ MAY 30 2024
 25 SEP 2024
 
 [Redesign Case Study](https://ishadeed.com/article/redesign-2024/)
+
+26 SEP 2024
+
+[Component Composition is great btw](https://tkdodo.eu/blog/component-composition-is-great-btw)
