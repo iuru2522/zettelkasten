@@ -1281,3 +1281,7 @@ MAY 30 2024
 26 SEP 2024
 
 [Component Composition is great btw](https://tkdodo.eu/blog/component-composition-is-great-btw)
+
+27 SEP 2024
+
+[How I Built My Blog(2024 “App Router” Edition)](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/?utm_source=tldrwebdev)
