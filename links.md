@@ -1285,3 +1285,7 @@ MAY 30 2024
 27 SEP 2024
 
 [How I Built My Blog(2024 “App Router” Edition)](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/?utm_source=tldrwebdev)
+
+28 SEP 2024
+
+[OpenAI as we knew it is dead](https://www.vox.com/future-perfect/374275/openai-just-sold-you-out)
