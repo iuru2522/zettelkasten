@@ -1289,3 +1289,7 @@ MAY 30 2024
 28 SEP 2024
 
 [OpenAI as we knew it is dead](https://www.vox.com/future-perfect/374275/openai-just-sold-you-out)
+
+30 SEP 2024
+
+[A Complete Guide to Session Management in Next.js](https://clerk.com/blog/complete-guide-session-management-nextjs)
