@@ -1293,3 +1293,7 @@ MAY 30 2024
 30 SEP 2024
 
 [A Complete Guide to Session Management in Next.js](https://clerk.com/blog/complete-guide-session-management-nextjs)
+
+05 OCT 2024
+
+[Types of React Components [2024]](https://www.robinwieruch.de/react-component-types/)
