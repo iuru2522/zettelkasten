@@ -1,3 +1,6 @@
+[2023](https://github.com/iuru2522/zettelkasten/tree/main/links/2023)
+[2024](https://github.com/iuru2522/zettelkasten/tree/main/links/2024)
+
 List what I need to learn:
 
 Caching

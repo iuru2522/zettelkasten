@@ -1,6 +1,3 @@
-
-[Mastering SOLID principles in REACT](https://dev.to/vyan/mastering-solid-principles-in-react-elevating-your-code-quality-2c6h)
-
 01 SEP 2024
 
 [how to reduce unused javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
@@ -18,6 +15,7 @@
 [Brand New Performance Features in Chrome DevTools](https://www.debugbear.com/blog/fix-web-performance-devtools)
 
 05 SEP 2024
+
 [Introducing @svg-use](https://fotis.xyz/posts/introducing-svg-use/)
 
 07 SEP 2024
