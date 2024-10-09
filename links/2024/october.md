@@ -9,3 +9,7 @@
 07 OCT 2024
 
 [Auto_Jobs_Applier_AIHawk(repo)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)
+
+08 OCT 2024
+
+[Web Components are not Framework Components — and That’s Okay](https://lea.verou.me/blog/2024/wcs-vs-frameworks/?utm_source=tldrwebdev)
