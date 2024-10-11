@@ -17,3 +17,7 @@
 09 OCT 2024
 
 [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+
+10 OCT 2024
+
+[What’s the Difference Between HTML’s Dialog Element and Popovers? ](https://frontendmasters.com/blog/whats-the-difference-between-htmls-dialog-element-and-popovers/)
