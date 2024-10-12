@@ -21,3 +21,7 @@
 10 OCT 2024
 
 [What’s the Difference Between HTML’s Dialog Element and Popovers? ](https://frontendmasters.com/blog/whats-the-difference-between-htmls-dialog-element-and-popovers/)
+
+11 OCT 2024
+
+[The Emerging Economy of LLMs](https://medium.com/wix-engineering/the-emerging-economy-of-llms-883f2ab13067)
