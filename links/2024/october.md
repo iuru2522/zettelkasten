@@ -25,3 +25,7 @@
 11 OCT 2024
 
 [The Emerging Economy of LLMs](https://medium.com/wix-engineering/the-emerging-economy-of-llms-883f2ab13067)
+
+12 OCT 2024
+
+[Practical Accessibility Tips You Can Apply Today](https://piccalil.li/blog/practical-accessibility-tips-you-can-apply-today/)
