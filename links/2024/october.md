@@ -29,3 +29,8 @@
 12 OCT 2024
 
 [Practical Accessibility Tips You Can Apply Today](https://piccalil.li/blog/practical-accessibility-tips-you-can-apply-today/)
+
+
+13 OCT 2024
+
+[Розбираємо реліз React 19: паралельний рендеринг, серверні компоненти та нові хуки](https://dou.ua/forums/topic/50385/)
