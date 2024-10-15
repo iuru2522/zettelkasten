@@ -34,3 +34,7 @@
 13 OCT 2024
 
 [Розбираємо реліз React 19: паралельний рендеринг, серверні компоненти та нові хуки](https://dou.ua/forums/topic/50385/)
+
+14 OCT 2024
+
+[The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
