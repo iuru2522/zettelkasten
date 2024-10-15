@@ -38,3 +38,7 @@
 14 OCT 2024
 
 [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
+
+15 OCT 2024
+
+[HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace)
