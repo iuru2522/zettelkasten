@@ -42,3 +42,7 @@
 15 OCT 2024
 
 [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace)
+
+16 OCT 2024
+
+[Why techies leave Big Tech](https://newsletter.pragmaticengineer.com/p/leaving-big-tech)
