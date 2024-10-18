@@ -46,3 +46,8 @@
 16 OCT 2024
 
 [Why techies leave Big Tech](https://newsletter.pragmaticengineer.com/p/leaving-big-tech)
+
+
+17 OCT 2024
+
+[Legacy Modernization meets GenAI](https://www.martinfowler.com/articles/legacy-modernization-gen-ai.html)
