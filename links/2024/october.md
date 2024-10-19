@@ -51,3 +51,7 @@
 17 OCT 2024
 
 [Legacy Modernization meets GenAI](https://www.martinfowler.com/articles/legacy-modernization-gen-ai.html)
+
+18 OCT 2024
+
+[Cycle time(Martin Fowler)](https://martinfowler.com/bliki/CycleTime.html)
