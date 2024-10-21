@@ -55,3 +55,7 @@
 18 OCT 2024
 
 [Cycle time(Martin Fowler)](https://martinfowler.com/bliki/CycleTime.html)
+
+20 OCT 2024
+
+[Stripe Software Engineer Interview Guide](https://www.tryexponent.com/guides/stripe-swe-interview)
