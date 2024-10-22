@@ -59,3 +59,7 @@
 20 OCT 2024
 
 [Stripe Software Engineer Interview Guide](https://www.tryexponent.com/guides/stripe-swe-interview)
+
+21 OCT 2024
+
+[Try HTML components in pure Go.](https://www.gomponents.com/?utm_source=tldrwebdev)
