@@ -63,3 +63,7 @@
 21 OCT 2024
 
 [Try HTML components in pure Go.](https://www.gomponents.com/?utm_source=tldrwebdev)
+
+22 OCT 2024
+
+[Some important learnings from my 20 years of engineering life](https://newsletter.techworld-with-milan.com/p/some-important-learnings-from-my?utm_source=tldrwebdev)
