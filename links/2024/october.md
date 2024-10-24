@@ -67,3 +67,7 @@
 22 OCT 2024
 
 [Some important learnings from my 20 years of engineering life](https://newsletter.techworld-with-milan.com/p/some-important-learnings-from-my?utm_source=tldrwebdev)
+
+23 OCT 2024
+
+[ntroducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
