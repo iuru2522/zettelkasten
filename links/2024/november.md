@@ -7,4 +7,8 @@
 [Q3 earnings call: CEO’s remarks(Google)](https://blog.google/inside-google/message-ceo/alphabet-earnings-q3-2024/#full-stack-approach)
 
 04 NOV 2024
-[](https://jondlm.github.io/website/blog/leaving_stripe/?utm_source=tldrwebdev)
+[Leaving Stripe](https://jondlm.github.io/website/blog/leaving_stripe)
+
+05 NOV 2024
+
+[Diagram as Code(Python)](https://diagrams.mingrammer.com/)
