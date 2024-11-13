@@ -12,3 +12,7 @@
 05 NOV 2024
 
 [Diagram as Code(Python)](https://diagrams.mingrammer.com/)
+
+12 NOV 2024
+
+[Are AI Assistants Making Us Worse Programmers?](https://rafaelquintanilha.com/are-ai-assistants-making-us-worse-programmers/)
