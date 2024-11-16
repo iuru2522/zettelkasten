@@ -16,3 +16,8 @@
 12 NOV 2024
 
 [Are AI Assistants Making Us Worse Programmers?](https://rafaelquintanilha.com/are-ai-assistants-making-us-worse-programmers/)
+
+
+15 NOV 2024
+
+[Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website](https://www.smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/)
