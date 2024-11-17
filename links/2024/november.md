@@ -21,3 +21,7 @@
 15 NOV 2024
 
 [Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website](https://www.smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/)
+
+16 NOV 2024
+
+[When to do what you love](https://paulgraham.com/when.html)
