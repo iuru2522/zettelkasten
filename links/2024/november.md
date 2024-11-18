@@ -25,3 +25,7 @@
 16 NOV 2024
 
 [When to do what you love](https://paulgraham.com/when.html)
+
+17 NOV 2024
+
+[How to Create an Organic Text Distortion Effect with Infinite Scrolling](https://tympanus.net/codrops/2024/11/06/how-to-create-an-organic-text-distortion-effect-with-infinite-scrolling/)
