@@ -29,3 +29,8 @@
 17 NOV 2024
 
 [How to Create an Organic Text Distortion Effect with Infinite Scrolling](https://tympanus.net/codrops/2024/11/06/how-to-create-an-organic-text-distortion-effect-with-infinite-scrolling/)
+
+18 NOV 2024
+
+[Semantic Versioning 2.0.0](https://semver.org/lang/uk/spec/v2.0.0.html)
+
