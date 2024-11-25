@@ -34,7 +34,10 @@
 
 [Semantic Versioning 2.0.0](https://semver.org/lang/uk/spec/v2.0.0.html)
 
-
 21 NOV 2024
 
 [When is the right time to share our excitement about new web features?](https://rachelandrew.co.uk/archives/2024/11/15/when-is-the-right-time-to-share-our-excitement-about-new-web-features/)
+
+24 NOV 2024
+
+[AI is taking your job(Kent C. Dodds)](https://kentcdodds.com/blog/ai-is-taking-your-job)
