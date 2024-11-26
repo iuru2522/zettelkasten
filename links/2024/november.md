@@ -41,3 +41,7 @@
 24 NOV 2024
 
 [AI is taking your job(Kent C. Dodds)](https://kentcdodds.com/blog/ai-is-taking-your-job)
+
+25 NOV 2024
+
+[The one framework every engineer should know](https://read.highgrowthengineer.com/p/the-one-framework-every-engineer-must-know)
