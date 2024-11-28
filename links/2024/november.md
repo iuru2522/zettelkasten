@@ -45,3 +45,7 @@
 25 NOV 2024
 
 [The one framework every engineer should know](https://read.highgrowthengineer.com/p/the-one-framework-every-engineer-must-know)
+
+27 NOV 2024
+
+[Archetypes of LLM apps](https://www.contraption.co/archetypes-of-llm-apps/)
