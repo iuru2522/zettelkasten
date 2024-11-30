@@ -49,3 +49,7 @@
 27 NOV 2024
 
 [Archetypes of LLM apps](https://www.contraption.co/archetypes-of-llm-apps/)
+
+29 NOV 2024
+
+[A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
