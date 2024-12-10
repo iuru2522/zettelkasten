@@ -18,3 +18,7 @@
 07 DEC 2024
 
 [React 19](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+
+09 DEC 2024
+
+[Writing system software: code comments.](https://antirez.com/news/124)
