@@ -22,3 +22,7 @@
 09 DEC 2024
 
 [Writing system software: code comments.](https://antirez.com/news/124)
+
+12 DEC 2024
+
+[](https://www.developerway.com/posts/how-react-compiler-performs-on-real-code)
