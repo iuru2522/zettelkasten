@@ -26,3 +26,8 @@
 12 DEC 2024
 
 [](https://www.developerway.com/posts/how-react-compiler-performs-on-real-code)
+
+13 DEC 2024
+
+[](https://stripe.com/blog/secret-life-of-dns)
+
