@@ -25,9 +25,13 @@
 
 12 DEC 2024
 
-[](https://www.developerway.com/posts/how-react-compiler-performs-on-real-code)
+[How React Compiler Performs on Real Code](https://www.developerway.com/posts/how-react-compiler-performs-on-real-code)
 
 13 DEC 2024
 
-[](https://stripe.com/blog/secret-life-of-dns)
+[The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
 
+
+15 DEC 2024
+
+[Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
