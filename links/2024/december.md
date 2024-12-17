@@ -31,7 +31,10 @@
 
 [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
 
-
 15 DEC 2024
 
 [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
+
+16 DEC 2024
+
+[CSS Wrapped (Google)](https://chrome.dev/css-wrapped-2024/)
