@@ -38,3 +38,7 @@
 16 DEC 2024
 
 [CSS Wrapped (Google)](https://chrome.dev/css-wrapped-2024/)
+
+18 DEC 2024
+
+[W3C Statement on Ethical Web Principles guides the community to build a better web](https://www.w3.org/blog/2024/w3c-statement-on-ethical-web-principles-guides-the-community-to-build-a-better-web/)
