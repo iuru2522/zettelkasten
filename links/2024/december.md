@@ -46,3 +46,7 @@
 23 DEC 2024
 
 [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development)
+
+27 DEC 2024
+
+[2025 Web Hosting Trends That Could Affect Frontend Developers](https://thenewstack.io/2025-web-hosting-trends-that-could-affect-frontend-developers/)
