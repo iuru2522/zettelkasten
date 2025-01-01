@@ -50,3 +50,7 @@
 27 DEC 2024
 
 [2025 Web Hosting Trends That Could Affect Frontend Developers](https://thenewstack.io/2025-web-hosting-trends-that-could-affect-frontend-developers/)
+
+31 DEC 2024
+
+[AI Needs So Much Power, Its Making Yours Worse](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/)
