@@ -6,6 +6,3 @@ JAN 27 2025
 
 [Introduction to activities(android.com)](https://developer.android.com/guide/components/activities/intro-activities)
 
-FEB 01 2025
-
-[](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
