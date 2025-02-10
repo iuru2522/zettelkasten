@@ -9,3 +9,7 @@ FEB 05 2025
 FEB 08 2025
 
 [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
+
+FEB 09 2025
+
+[JavaScript Temporal is coming [MDN]](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
