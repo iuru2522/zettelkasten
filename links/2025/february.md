@@ -13,3 +13,7 @@ FEB 08 2025
 FEB 09 2025
 
 [JavaScript Temporal is coming [MDN]](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+
+FEB 15 2025
+
+[](https://vale.rocks/posts/ai-is-stifling-tech-adoption?utm_source=tldrwebdev)
