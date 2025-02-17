@@ -16,4 +16,8 @@ FEB 09 2025
 
 FEB 15 2025
 
-[](https://vale.rocks/posts/ai-is-stifling-tech-adoption?utm_source=tldrwebdev)
+[AI is Stifling Tech Adoption (ESSAY)](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
+
+FEB 16 2025
+
+[How I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
