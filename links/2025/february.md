@@ -21,3 +21,7 @@ FEB 15 2025
 FEB 16 2025
 
 [How I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
+
+FEB 22 202025
+
+[](https://sdk.vercel.ai/cookbook/next/human-in-the-loop?utm_source=tldrwebdev)
