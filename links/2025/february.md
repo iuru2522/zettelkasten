@@ -22,6 +22,10 @@ FEB 16 2025
 
 [How I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
 
-FEB 22 202025
+FEB 22 2025
 
-[](https://sdk.vercel.ai/cookbook/next/human-in-the-loop?utm_source=tldrwebdev)
+[Human-in-the-Loop with Next.js](https://sdk.vercel.ai/cookbook/next/human-in-the-loop)
+
+FEB 23 2025
+
+[Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
