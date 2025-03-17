@@ -6,3 +6,7 @@ MAR 08 2025
 MAR 15 2025
 
 [A Software Engineer's Guide to Reading Research Papers](https://blog.codingconfessions.com/p/a-software-engineers-guide-to-reading-papers)
+
+MAT 17 2025
+
+[Relative Colors(CSS)](https://ishadeed.com/article/css-relative-colors/)
