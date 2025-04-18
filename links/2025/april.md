@@ -9,3 +9,7 @@ APR 14 2025
 APR 15 2025
 
 [Coroutines[Kotlin]](https://kotlinlang.org/docs/coroutines-overview.html)
+
+APR 17 2025
+
+[AI tools are ironically way more useful for experienced devs than novices (Reddit Thread)](https://www.reddit.com/r/ExperiencedDevs/comments/1jzpzkm/ai_tools_are_ironically_way_more_useful_for)
