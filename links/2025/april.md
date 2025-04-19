@@ -16,5 +16,8 @@ APR 17 2025
 
 APR 18 2025
 
-[](https://engineering.atspotify.com/2025/04/how-we-release-the-spotify-app-part-1/)
+[A Behind-the-Scenes Look at How We Release the Spotify App (Part 1)](https://engineering.atspotify.com/2025/04/how-we-release-the-spotify-app-part-1/)
 
+APR 19 2025
+
+[Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
