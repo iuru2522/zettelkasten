@@ -21,3 +21,7 @@ APR 18 2025
 APR 19 2025
 
 [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
+
+APR 20 2025
+
+[The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
