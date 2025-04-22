@@ -25,3 +25,7 @@ APR 19 2025
 APR 20 2025
 
 [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
+
+APR 21 2025
+
+[Better error handling](https://meowbark.dev/Better-error-handling)
