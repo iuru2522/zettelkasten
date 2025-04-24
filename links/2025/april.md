@@ -29,3 +29,7 @@ APR 20 2025
 APR 21 2025
 
 [Better error handling](https://meowbark.dev/Better-error-handling)
+
+APR 23 2025
+
+[](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
