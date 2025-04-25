@@ -32,4 +32,8 @@ APR 21 2025
 
 APR 23 2025
 
-[](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
+[Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
+
+APR 24 2025
+
+[AI 2027](https://ai-2027.com/)
