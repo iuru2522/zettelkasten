@@ -37,3 +37,7 @@ APR 23 2025
 APR 24 2025
 
 [AI 2027](https://ai-2027.com/)
+
+APR 25 2025
+
+[Mark Zuckerberg social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
