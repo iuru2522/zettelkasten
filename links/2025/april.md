@@ -41,3 +41,7 @@ APR 24 2025
 APR 25 2025
 
 [Mark Zuckerberg social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
+
+APR 26 2025
+
+[](https://decodingml.substack.com/p/build-your-gaming-simulation-ai-agent)
