@@ -44,4 +44,8 @@ APR 25 2025
 
 APR 26 2025
 
-[](https://decodingml.substack.com/p/build-your-gaming-simulation-ai-agent)
+[Build your gaming simulation AI agent](https://decodingml.substack.com/p/build-your-gaming-simulation-ai-agent)
+
+APR 28 2025
+
+[Floating labels [Bootstrap]](https://getbootstrap.com/docs/5.3/forms/floating-labels/)
