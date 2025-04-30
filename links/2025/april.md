@@ -49,3 +49,7 @@ APR 26 2025
 APR 28 2025
 
 [Floating labels [Bootstrap]](https://getbootstrap.com/docs/5.3/forms/floating-labels/)
+
+APR 29 2025
+
+[Hydration(Angular)](https://angular.dev/guide/hydration)
