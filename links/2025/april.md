@@ -56,4 +56,4 @@ APR 29 2025
 
 APR 30 2025
 
-[](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
+[Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
