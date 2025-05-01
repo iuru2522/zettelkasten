@@ -53,3 +53,7 @@ APR 28 2025
 APR 29 2025
 
 [Hydration(Angular)](https://angular.dev/guide/hydration)
+
+APR 30 2025
+
+[](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
