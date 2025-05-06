@@ -9,3 +9,7 @@
 04 MAY 2025
 
 [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
+
+05 MAY 2025
+
+[](https://pluralistic.net/2025/04/27/some-animals/)
