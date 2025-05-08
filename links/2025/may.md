@@ -13,3 +13,7 @@
 05 MAY 2025
 
 [](https://pluralistic.net/2025/04/27/some-animals/)
+
+07 MAY 2025
+
+[](https://nuejs.org/blog/introducing-hyper/)
