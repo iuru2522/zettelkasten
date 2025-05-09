@@ -12,8 +12,12 @@
 
 05 MAY 2025
 
-[](https://pluralistic.net/2025/04/27/some-animals/)
+[Pluralistic: The enshittification of tech jobs](https://pluralistic.net/2025/04/27/some-animals/)
 
 07 MAY 2025
 
-[](https://nuejs.org/blog/introducing-hyper/)
+[Introducing Hyper — Standards first React alternative (Developer Preview)](https://nuejs.org/blog/introducing-hyper/)
+
+08 MAY 2025
+
+[RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
