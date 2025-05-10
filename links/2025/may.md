@@ -21,3 +21,7 @@
 08 MAY 2025
 
 [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
+
+09 MAY 2025
+
+[](https://deepintodev.com/blog/how-nodejs-works-behind-the-scenes)
