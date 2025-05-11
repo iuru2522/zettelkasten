@@ -24,4 +24,8 @@
 
 09 MAY 2025
 
-[](https://deepintodev.com/blog/how-nodejs-works-behind-the-scenes)
+[ow Node.js Works Behind the Scenes](https://deepintodev.com/blog/how-nodejs-works-behind-the-scenes)
+
+10 MAY 2025
+
+[Web search tool(Antropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use/web-search-tool)
