@@ -29,3 +29,7 @@
 10 MAY 2025
 
 [Web search tool(Antropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use/web-search-tool)
+
+11 MAY 2025
+
+[](https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast)
