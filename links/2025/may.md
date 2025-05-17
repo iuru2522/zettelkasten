@@ -32,4 +32,9 @@
 
 11 MAY 2025
 
-[](https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast)
+[How Cursor Indexes Codebases Fast](https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast)
+
+
+16 MAY 2025
+
+[SWE-1: Our First Frontier Models(Windsurf)](https://windsurf.com/blog/windsurf-wave-9-swe-1)
