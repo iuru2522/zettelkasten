@@ -38,3 +38,7 @@
 16 MAY 2025
 
 [SWE-1: Our First Frontier Models(Windsurf)](https://windsurf.com/blog/windsurf-wave-9-swe-1)
+
+18 MAY 2025
+
+[](https://dou.ua/forums/topic/53658/)
