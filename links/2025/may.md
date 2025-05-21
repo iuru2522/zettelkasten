@@ -39,6 +39,10 @@
 
 [SWE-1: Our First Frontier Models(Windsurf)](https://windsurf.com/blog/windsurf-wave-9-swe-1)
 
-18 MAY 2025
+19 MAY 2025
 
-[](https://dou.ua/forums/topic/53658/)
+[Розбираємо standalone-компоненти у Angular](https://dou.ua/forums/topic/53658/)
+
+20 MAY 2025
+
+[Project structure for Blazor apps](https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/project-structure)
