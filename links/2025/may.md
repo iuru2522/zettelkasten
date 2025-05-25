@@ -46,3 +46,8 @@
 20 MAY 2025
 
 [Project structure for Blazor apps](https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/project-structure)
+
+24 MAY 2025
+
+[](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
+
