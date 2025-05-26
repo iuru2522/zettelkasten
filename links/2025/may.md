@@ -51,3 +51,8 @@
 
 [](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 
+25 MAY 2025
+
+[](https://thenewstack.io/how-ai-agents-will-change-the-web-for-users-and-developers/)
+
+
