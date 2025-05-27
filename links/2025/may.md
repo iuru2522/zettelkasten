@@ -55,4 +55,9 @@
 
 [](https://thenewstack.io/how-ai-agents-will-change-the-web-for-users-and-developers/)
 
+26 MAY 2025
+
+[](https://ui.dev/c/react/concurrent-rendering?utm_source=tldrwebdev)
+
+
 
