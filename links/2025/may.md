@@ -49,15 +49,19 @@
 
 24 MAY 2025
 
-[](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
+[In 2025, Apple still makes it hard to play your own MP3s, so I wrote my own app](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 
 25 MAY 2025
 
-[](https://thenewstack.io/how-ai-agents-will-change-the-web-for-users-and-developers/)
+[How AI Agents Will Change the Web for Users and Developers](https://thenewstack.io/how-ai-agents-will-change-the-web-for-users-and-developers/)
 
 26 MAY 2025
 
-[](https://ui.dev/c/react/concurrent-rendering?utm_source=tldrwebdev)
+[Concurrent Rendering](https://ui.dev/c/react/concurrent-rendering)
+
+27 MAY 2025
+
+[Google Is Burying the Web Alive](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html)
 
 
 
