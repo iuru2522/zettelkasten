@@ -63,5 +63,9 @@
 
 [Google Is Burying the Web Alive](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html)
 
+28 MAY 2025
+
+[](https://www.epicreact.dev/just-use-react-dk4e0)
+
 
 
