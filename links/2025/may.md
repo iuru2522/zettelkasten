@@ -71,5 +71,9 @@
 
 [](https://refactoring.fm/p/ai-code-reviews)
 
+30 MAY2025
+
+[](https://www.oreilly.com/radar/ai-and-programming-the-beginning-of-a-new-era/)
+
 
 
