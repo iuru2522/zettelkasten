@@ -65,15 +65,19 @@
 
 28 MAY 2025
 
-[](https://www.epicreact.dev/just-use-react-dk4e0)
+[JUST USE REACT(Kent C.Dodds)](https://www.epicreact.dev/just-use-react-dk4e0)
 
 29 MAY 2025
 
-[](https://refactoring.fm/p/ai-code-reviews)
+[How Code Reviews are Changing with AI](https://refactoring.fm/p/ai-code-reviews)
 
-30 MAY2025
+30 MAY 2025
 
-[](https://www.oreilly.com/radar/ai-and-programming-the-beginning-of-a-new-era/)
+[AI and Programming: The Beginning of a New Era](https://www.oreilly.com/radar/ai-and-programming-the-beginning-of-a-new-era/)
+
+31 MAY 2025
+
+[MCP: What It Is and Why It Matters—Part 1](https://www.oreilly.com/radar/mcp-what-it-is-and-why-it-matters-part-1/)
 
 
 
