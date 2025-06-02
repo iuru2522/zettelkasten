@@ -79,5 +79,9 @@
 
 [MCP: What It Is and Why It Matters—Part 1](https://www.oreilly.com/radar/mcp-what-it-is-and-why-it-matters-part-1/)
 
+01 JUNE 2025
+
+[](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph?utm_source=tldrwebdev)
+
 
 
