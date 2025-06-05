@@ -9,3 +9,7 @@
 03 JUNE 2025
 
 [](https://fly.io/blog/youre-all-nuts/)
+
+04 JUNE 2025
+
+[](https://medium.com/pinterest-engineering/adopting-docs-as-code-at-pinterest-4f18ad169c25)
