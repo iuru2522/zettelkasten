@@ -13,3 +13,7 @@
 04 JUNE 2025
 
 [](https://medium.com/pinterest-engineering/adopting-docs-as-code-at-pinterest-4f18ad169c25)
+
+06 JUNE 2025
+
+[](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
