@@ -8,16 +8,20 @@
 
 03 JUNE 2025
 
-[](https://fly.io/blog/youre-all-nuts/)
+[My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
 
 04 JUNE 2025
 
-[](https://medium.com/pinterest-engineering/adopting-docs-as-code-at-pinterest-4f18ad169c25)
+[Adopting Docs-as-Code at Pinterest](https://medium.com/pinterest-engineering/adopting-docs-as-code-at-pinterest-4f18ad169c25)
 
 05 JUNE 2025
 
-[](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
+[“AI will replace all the jobs!” Is Just Tech Execs Doing Marketing](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
 
 06 JUNE 2025
 
-[](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html?utm_source=tldrwebdev)
+[I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
+
+07 JUNE 2025
+
+[What We Know (So Far) About CSS Reading Order](https://css-tricks.com/what-we-know-so-far-about-css-reading-order/)
