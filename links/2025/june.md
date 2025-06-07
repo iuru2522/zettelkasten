@@ -14,6 +14,10 @@
 
 [](https://medium.com/pinterest-engineering/adopting-docs-as-code-at-pinterest-4f18ad169c25)
 
-06 JUNE 2025
+05 JUNE 2025
 
 [](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
+
+06 JUNE 2025
+
+[](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html?utm_source=tldrwebdev)
