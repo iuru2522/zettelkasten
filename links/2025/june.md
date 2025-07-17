@@ -28,7 +28,4 @@
 
 08 JUNE 2025
 
-[](https://blog.logrocket.com/claude-web-app/)
-
-15 JULY 2025
-[](https://www.builder.io/blog/claude-code)
+[How to use Claude to build a web app](https://blog.logrocket.com/claude-web-app/)
