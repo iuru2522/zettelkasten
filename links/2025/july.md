@@ -9,3 +9,7 @@
 26 JULY 2025
 
 [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+
+29 JULY 2025
+
+[](https://dou.ua/forums/topic/54911/)
