@@ -12,4 +12,8 @@
 
 29 JULY 2025
 
-[](https://dou.ua/forums/topic/54911/)
+[useEffect «над капотом», життєвий цикл компонента та джуни — не джуни](https://dou.ua/forums/topic/54911/)
+
+30 JULY 2025
+
+[6 CSS Snippets Every Front-End Developer Should Know In 2025](https://www.angularspace.com/6-css-snippets-every-front-end-developer-should-know-in-2025/)
