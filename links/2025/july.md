@@ -17,3 +17,7 @@
 30 JULY 2025
 
 [6 CSS Snippets Every Front-End Developer Should Know In 2025](https://www.angularspace.com/6-css-snippets-every-front-end-developer-should-know-in-2025/)
+
+01 AUG 2025
+
+[](https://thenewstack.io/engineers-are-finally-ditching-the-accessibility-checkbox/)
