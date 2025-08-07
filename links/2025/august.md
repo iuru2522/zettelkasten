@@ -9,3 +9,7 @@
 05 AUG 2025
 
 [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding)
+
+06 AUG 2025
+
+[](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
