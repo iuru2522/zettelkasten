@@ -12,4 +12,8 @@
 
 06 AUG 2025
 
-[](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
+[No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
+
+07 AUG 2025
+
+[It’s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
