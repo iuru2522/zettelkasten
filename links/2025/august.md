@@ -17,3 +17,7 @@
 07 AUG 2025
 
 [It’s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
+
+08 AUG 2025
+
+[](https://training.linuxfoundation.org/training/introduction-to-javascript-security-lfs184/)
